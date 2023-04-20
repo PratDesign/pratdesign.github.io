@@ -92,7 +92,7 @@
   
  
 article {
-  background-color: gray;
+  background: #1F1541;
   color: white;
   
   padding: 50px 10px 150px 10px;
@@ -138,3 +138,7 @@ article {
   color: white;
 }
 
+body{
+  background: linear-gradient(to bottom, #f6f7fc, #d1c6c6);
+  
+}
